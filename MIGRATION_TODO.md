@@ -33,6 +33,9 @@
   - [x] Create API keys
   - [x] Define collection schema
   - [ ] Configure search relevance
+    - [ ] Set up synonyms
+    - [ ] Configure ranking rules
+    - [ ] Implement faceted search
 - [ ] 2.4 CI/CD Pipeline
   - [ ] Set up GitHub Actions
   - [ ] Configure build workflows
@@ -54,11 +57,20 @@
 - [ ] 3.3 Media Management
   - [x] Configure media library
   - [ ] Set up image transformations
+    - [ ] Configure responsive image sizes
+    - [ ] Set up WebP conversion
+    - [ ] Implement lazy loading
   - [ ] Plan media migration strategy
+    - [ ] Document media organization structure
+    - [ ] Define naming conventions
+    - [ ] Plan for optimizing legacy assets
 - [ ] 3.4 Content Validation and Workflows
   - [x] Define validation rules
   - [x] Configure publishing workflows
   - [ ] Set up revision history
+    - [ ] Configure audit logging
+    - [ ] Set up content versioning
+    - [ ] Create rollback procedures
 
 ## Phase 4: Astro Project Configuration
 - [ ] 4.1 Base Project Setup
