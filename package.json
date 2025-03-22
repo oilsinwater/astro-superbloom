@@ -2,6 +2,7 @@
   "name": "new-superbloom",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -30,7 +31,9 @@
     "astro": "^5.5.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "typescript": "^5.8.2"
+    "sharp": "^0.33.3",
+    "typescript": "^5.8.2",
+    "typesense": "^2.0.3"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.27.0",
